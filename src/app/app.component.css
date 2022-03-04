@@ -1,0 +1,12 @@
+fieldset{
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 300px;
+    background-color: rgb(213, 102, 102);
+    
+    
+}
+fieldset:hover{
+    background-color: red;
+    
+}
